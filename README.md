@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 Reach me on Twitter @0xSparked
+- Meow
 
 <!---
 0xsks/0xsks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
