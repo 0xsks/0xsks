@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xSparked
 - 👀 I’m interested in AI & Crypto
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 Reach me on Twitter @0xSparked
 - Meow
